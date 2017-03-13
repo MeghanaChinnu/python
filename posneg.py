@@ -4,6 +4,6 @@ if(n>0):
 elif(n=0):
   print("Zero")
 elif(n<0):
-	print("Negative")
+  print("Negative")
 else:
-	break
+  break
